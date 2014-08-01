@@ -1,0 +1,9 @@
+# Python byte comde #
+#####################
+*.pyc
+# VIM #
+*.swp
+# Emacs generated files #
+*~
+# ipython notebook checkpoints
+notebooks/.ipynb_checkpoints*
